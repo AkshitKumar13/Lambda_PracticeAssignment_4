@@ -2,7 +2,8 @@ Write a lambda expression that accepts two long arguments as a range borders and
 
 Solution format. Submit your lambda expression in any valid format with ; on the end.
 
-Examples: (x, y) -> x + y; (x, y) -> { return x + y; };
+Examples: (x, y) -> x + y;
+(x, y) -> { return x + y; };
 
 Sample Input 1:
 0 1
